@@ -101,7 +101,18 @@ motion-triggered, RFID-gated, LCD-reporting gadget — a little vault
 alarm, a door system, or a weather station for the safehouse. Completing
 it is the end of the story arc.
 
+## Reading the Course
+
+The course is published as a website with GitHub Pages. All pages are
+Markdown files under `docs/`, rendered with the Just the Docs Jekyll
+theme (sidebar navigation, search, dark colour scheme).
+
+- **Site:** https://adamstirtan.github.io/arduino-course
+- **To enable it:** repo Settings → Pages → build from the `master`
+  branch, `/docs` folder.
+
 ## Status
 
-Course outline and storyline are set. Module content is coming next —
-this README will link to each module as it's written.
+Course outline, storyline, and GitHub Pages scaffold are set. Module
+content is coming next — each module page under `docs/` will be filled
+in as it's written.
