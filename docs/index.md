@@ -57,4 +57,6 @@ movie, not a how-to for breaking into things.
 - [Module 8 — Physical Access](module-08-physical-access.html)
 - [The Finale — The Job](finale-the-job.html)
 
-*Module content is coming next — this site is the scaffold it will live in.*
+*All eight modules and the finale are written, each with PDF diagrams
+and sketches alongside — start at Module 1 and work through to the
+finale.*

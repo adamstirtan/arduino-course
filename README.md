@@ -113,6 +113,6 @@ theme (sidebar navigation, search, dark colour scheme).
 
 ## Status
 
-Course outline, storyline, and GitHub Pages scaffold are set. Module
-content is coming next — each module page under `docs/` will be filled
-in as it's written.
+Complete: all eight modules and the finale are written, each with
+diagrams from the Elegoo tutorial PDF and sketches alongside in
+`docs/`.
