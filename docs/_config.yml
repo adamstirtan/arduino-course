@@ -1,0 +1,7 @@
+title: Arduino Course
+description: A custom, hands-on Arduino course built around the Elegoo Complete Starter Kit for UNO, with a hacker storyline.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+color_scheme: dark
+baseurl: "/arduino-course"
